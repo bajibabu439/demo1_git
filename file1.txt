@@ -1,2 +1,4 @@
 asif : hii
 baji : Hi asif
+asif : do you complete git competency
+baji : yes how about u
