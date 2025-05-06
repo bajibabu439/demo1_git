@@ -1,3 +1,5 @@
 asif : hii
 baji : Hi asif
 bala : Hi how are you both
+both : We are fine how are you
+bala : I am fine ok its time for me to leave bye
